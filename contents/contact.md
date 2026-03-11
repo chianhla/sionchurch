@@ -6,8 +6,16 @@
 - Deputy: Mr Trung Nguyen  Mob: 0423 903 073
 
 - Online Giving
+
+  
 Bank name: Commonwealth
+
+
 Account name: Sion Church Incorporated	
+
+
 Account BSB: 063 253
+
+
 Account number: 1098 6640
 			
